@@ -27,4 +27,4 @@ Gas price 100% Default assumption
 Kaggle Notebook - https://www.kaggle.com/altanai/lcoe-levelized-cost-of-electricity-generation 
 
 
-[![Does renewable and energy storage integration green the electric grid by altanai]("Does renewable and energy storage integration green the electric grid altanai.png")](https://vimeo.com/674315507)
+[![Does renewable and energy storage integration green the electric grid by altanai](Does_renewable_and_energy_storage_integration_green_the_electric_grid_altanai.png)](https://vimeo.com/674315507)
